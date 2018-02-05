@@ -1,4 +1,4 @@
-using OpenEphysLoader, DSP, PyPlot
+using OpenEphysLoader, DSP
 
 type AnalogData
   #data, with each row being a different channel and each column a time value
