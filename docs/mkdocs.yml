@@ -1,6 +1,6 @@
-site_name:        EEGTest.jl
+site_name:        EggAnalysis2
 site_author:      NeuroMotion
-repo_url:         https://github.com/mirestrepo/EEGTest.jl
+repo_url:         https://github.com/mirestrepo/EggAnalysis2
 site_description: Julia EEGTest
 site_author:      github.com/NeuroMotion
 
