@@ -2,7 +2,9 @@
 
 | Travis CI | Coverage | License | Documentation|
 |-----------|----------|---------|--------------|
-| [![Build&Test Status](https://travis-ci.org/mirestrepo/EggAnalysis2.svg?branch=master)](https://travis-ci.org/mirestrepo/EggAnalysis2.jl)| [![codecov](https://codecov.io/gh/mirestrepo/EggAnalysis2.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/mirestrepo/EggAnalysis2.jl)|[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mirestrepo/EggAnalysis2.jl/master/LICENSE.md) | [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://mirestrepo.github.io/EggAnalysis2.jl/stable) [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://mirestrepo.github.io/EggAnalysis2.jl/latest)
+| [![Build&Test Status](https://travis-ci.org/mirestrepo/EggAnalysis2.svg?branch=master)](https://travis-ci.org/mirestrepo/EggAnalysis2)| [![codecov](https://codecov.io/gh/mirestrepo/EggAnalysis2/branch/master/graph/badge.svg)](https://codecov.io/gh/mirestrepo/EggAnalysis2)|[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mirestrepo/EggAnalysis2/master/LICENSE.md) | [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://mirestrepo.github.io/EggAnalysis2/stable) [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://mirestrepo.github.io/EggAnalysis2/latest)
+
+
 
 Library for analyzing EEG and ECoG data.
 Work in progress, not to be used/trusted yet.
