@@ -1,0 +1,32 @@
+site_name:        EEGTest.jl
+site_author:      NeuroMotion
+repo_url:         https://github.com/mirestrepo/EEGTest.jl
+site_description: Julia EEGTest
+site_author:      github.com/NeuroMotion
+
+#To install material theme
+#pip3 install mkdocs-material
+theme: 
+  name: 'material'
+  # logo: 'images/logo.jpeg'
+
+extra_css:
+  - assets/Documenter.css
+
+# extra_javascript:
+#   - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#   - assets/mathjaxhelper.js
+
+markdown_extensions:
+  - extra
+  - tables
+  - fenced_code
+  - codehilite
+
+  # - mdx_math
+
+docs_dir: 'build'
+
+pages:
+- Home: index.md
+  
