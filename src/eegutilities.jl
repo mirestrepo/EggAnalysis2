@@ -1,5 +1,5 @@
-using PyPlot, DSP, MultivariateStats
-include("eegtypes.jl")
+using DSP, MultivariateStats
+# include("eegtypes.jl")
 
 """
     normalize_data(x)
